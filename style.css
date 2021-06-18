@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    font-family: arial, sans-serif;
+    color: #FFF;
+}
+
+h1{
+    color:  black;
+    font-family: verdana, sans-serif;
+}
+
+.maindiv {
+    background-color: gray;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 40px;
+    margin: auto;
+}
+#information_form {
+    margin-left: 85px;
+}
+.result_number {
+    background-color: purple;
+}
