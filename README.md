@@ -1,4 +1,4 @@
 # Web--Apllication
-Simple Calculater
+Simple calculator
 
 Its a markdwon file in this repository.
